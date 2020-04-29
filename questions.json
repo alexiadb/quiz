@@ -1,0 +1,61 @@
+  
+{
+	"questions": [
+	
+		{
+			"id": "1",
+			"title": "How is the coronavirus disease (COVID-19) transmitted?",
+			"answers": [
+				{
+					"id": "0",
+					"answer": "Respiratory droplets throught coughing and sneezing"
+				},
+				{
+					"id": "1",
+					"answer": "Touching surfaces contaminated by the virus and then touching your face"
+				},
+				{
+					"id": "2",
+					"answer": "both"
+				}
+			],
+			"correct": "2"
+		},
+		{
+			"id": "3",
+			"title": "Can I catch the coronavirus disease (COVID-19) from my pet?",
+			"answers": [
+				{
+					"id": "0",
+					"answer": "Yes"
+				},
+				{
+					"id": "1",
+					"answer": "No"
+				}
+				
+			],
+			"correct": "1"
+		},
+		{
+			"id": "4",
+			"title": "What percentage alcohol in hand rubs and disinfectants is needed to kill the coronavirus disease (COVID-19)?",
+			"answers": [
+				{
+					"id": "0",
+					"answer": "40%"
+				},
+				{
+					"id": "1",
+					"answer": "60%"
+				},
+				{
+					"id": "2",
+					"answer": "50%"
+				}
+				
+			],
+			"correct": "1"
+		}
+	]
+}
